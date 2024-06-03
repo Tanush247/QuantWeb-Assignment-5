@@ -1,6 +1,6 @@
 # QuantWeb Assignment 5
 
-This repository contains the code and assignment PDF for QuantWeb Assignment 5.
+This repository contains the assignment PDF for QuantWeb Assignment 5.
 
 ## Files
 
